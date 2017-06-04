@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumbersGame</string>
+    <string name="text_loading">loading...</string>
+    <string name="button_check">CHECK</string>
+    <string name="text_guest">sans-serif-light</string>
+    <string name="text_congrats">Congratulations....!!!</string>
+</resources>
